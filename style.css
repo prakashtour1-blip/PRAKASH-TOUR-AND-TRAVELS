@@ -85,3 +85,61 @@ nav a:hover{
 .btn:hover{
     background:white;
 }
+/* ===== About Section ===== */
+
+section{
+    padding:70px 8%;
+}
+
+section h2{
+    text-align:center;
+    font-size:36px;
+    color:#003366;
+    margin-bottom:25px;
+}
+
+section p{
+    text-align:center;
+    font-size:18px;
+    max-width:900px;
+    margin:auto;
+}
+
+/* ===== Services ===== */
+
+#services ul{
+    list-style:none;
+    max-width:700px;
+    margin:40px auto;
+}
+
+#services li{
+    background:#ffffff;
+    margin:15px 0;
+    padding:18px;
+    border-left:6px solid #003366;
+    border-radius:10px;
+    font-size:20px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* ===== Contact ===== */
+
+#contact{
+    background:#eef4ff;
+}
+
+#contact p{
+    margin:12px 0;
+    font-size:18px;
+}
+
+/* ===== Footer ===== */
+
+footer{
+    background:#003366;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+    font-size:16px;
+}
