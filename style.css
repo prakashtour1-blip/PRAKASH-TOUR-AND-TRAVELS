@@ -119,16 +119,16 @@ transition:1s;
 }
 
 .hero-slider .slide:nth-child(1){
-background-image:url('images/banner1.jpg');
+background-image: url('banner1.jpg');
 opacity:1;
 }
 
 .hero-slider .slide:nth-child(2){
-background-image:url('images/banner2.jpg');
+background-image: url('banner2.jpg');
 }
 
 .hero-slider .slide:nth-child(3){
-background-image:url('images/banner3.jpg');
+background-image: url('banner3.jpg');
 }
 
 .hero::before{
